@@ -1,4 +1,4 @@
-// alert('Hi')
+ alert('Hi')
 
 const rock = document.querySelector('.rock')
 const paper = document.querySelector('.paper')
